@@ -118,4 +118,4 @@ This project demonstrates the **core of circuit simulation theory** while remain
 ## 👤 Author & Contact
 **Author:** BIHAR GOURAV  
 **Email:** bihargaurav56@gmail.com  
-**GitHub:** [github.com/yourusername/pycircuit-sim](https://github.com/yourusername/pycircuit-sim)
+**GitHub:** [github.com/BGourav05/pycircuit-sim-part2](https://github.com/BGourav05/pycircuit-sim-part2)
