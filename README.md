@@ -116,6 +116,6 @@ This project demonstrates the **core of circuit simulation theory** while remain
 - Create an **educational visualization dashboard**
 
 ## 👤 Author & Contact
-**Author:** Your Name  
-**Email:** you@example.com  
+**Author:** BIHAR GOURAV  
+**Email:** bihargaurav56@gmail.com  
 **GitHub:** [github.com/yourusername/pycircuit-sim](https://github.com/yourusername/pycircuit-sim)
